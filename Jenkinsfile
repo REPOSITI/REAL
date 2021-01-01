@@ -22,7 +22,7 @@ pipeline {
                                 
                                 name: 'SP', 
                                 trim: true,
-                                defaultValue: 'du'
+                                defaultValue: 'yarabdu'
                             )
                         ])
                     ])
